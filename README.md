@@ -3,7 +3,7 @@
 This repository contains the Pytorch code to replicate experiments in our paper [Enabling Counterfactual Survival Analysis with Balanced Representations](https://arxiv.org/abs/2006.07756) accepted at ACM Conference on Health, Inference, and Learning (ACM CHIL) 2021:
 
 ```latex
-@inproceedings{chapfuwa2020survival, 
+@inproceedings{chapfuwa2021enabling, 
   title={Enabling Counterfactual Survival Analysis with Balanced Representations},
   author={Chapfuwa, Paidamoyo and Assaad, Serge and Zeng, Shuxi and Pencina, Michael J and Carin, Lawrence and Henao, Ricardo},
   booktitle={ACM Conference on Health, Inference, and Learning},
