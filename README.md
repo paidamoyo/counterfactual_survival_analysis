@@ -18,7 +18,7 @@ This repository contains Pytorch code for Counterfactual Survival Analysis
 ![Model](csa_model.png)
 
 ## Data
-- [ACTG](https://rdrr.io/cran/BART/man/ACTG175.html) is longitudinal RCT study comparing monotherapy with Zidovudine or Didanosine with combination therapy in HIV patients
+- [ACTG](https://rdrr.io/cran/BART/man/ACTG175.html): A longitudinal RCT study comparing monotherapy with Zidovudine or Didanosine with combination therapy in HIV patients
 - [Framingham](https://framinghamheartstudy.org/): A subset (Framingham Offspring) of the longitudinal study of heart
 disease dataset, for predicting the effects of statins on survival time
 - See [actg_synthetic.ipynb](./actg_synthetic.ipynb) to modify the generated actg-synthetic data
