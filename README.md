@@ -18,7 +18,7 @@ This repository contains the Pytorch code to replicate experiments in our paper 
 - [ACTG](https://rdrr.io/cran/BART/man/ACTG175.html): A longitudinal RCT study comparing monotherapy with Zidovudine or Didanosine with combination therapy in HIV patients
 - [Framingham](https://framinghamheartstudy.org/): A subset (Framingham Offspring) of the longitudinal study of heart
 disease dataset, for predicting the effects of statins on survival time
-- See [actg_synthetic.ipynb](./actg_synthetic.ipynb) to modify the generated actg-synthetic data
+- See [actg_synthetic.ipynb](./actg_synthetic.ipynb) to modify the generated ACTG-Synthetic data
 
 ## Prerequisites
 The code is implemented with the following dependencies:
