@@ -21,7 +21,7 @@ This repository contains Pytorch code for Causal Inference for Survival Analysis
 - [ACTG](https://rdrr.io/cran/BART/man/ACTG175.html) is longitudinal RCT study comparing monotherapy with Zidovudine or Didanosine with combination therapy in HIV patients
 - [Framingham](https://framinghamheartstudy.org/): A subset (Framingham Offspring) of the longitudinal study of heart
 disease dataset, for predicting the effects of statins on survival time
-* Run the [actg_synthetic.ipynb](./actg_synthetic.ipynb) to generate actg-synthetic data 
+- See [actg_synthetic.ipynb](./actg_synthetic.ipynb) to modify the generated actg-synthetic data
 
 ## Prerequisites
 The code is implemented with the following dependencies:
