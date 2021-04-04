@@ -11,8 +11,8 @@ This repository contains the Pytorch code to replicate experiments in our paper 
 }
 ```
 
-# Causal Survival Analysis
-This repository contains Pytorch code for Causal Inference for Survival Analysis
+#  Counterfactual Survival Analysis
+This repository contains Pytorch code for Counterfactual Survival Analysis
 
 ## Model
 ![Model](csa_model.png)
