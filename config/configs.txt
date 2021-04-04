@@ -9,8 +9,6 @@ l2_reg=[0.001] # l2 regularization weight multiplier (just for debugging not opt
 l1_reg=[0.001]  # l1 regularization weight multiplier (just for debugging not optimization)
 dropout=[0.2]  # dropout rate for weights implementation in layers
 sample_size=[200]  # number of samples of generated time for p(T_A|X=x)
-#alpha=[0, 0.1, 1, 10, 100]  # IPM weight > 0
-alpha=[100]  # IPM weight
-# method=['CSA', 'CSA-INFO]
-method=['CSA-INFO'] # selected from =['CSA', 'CSA-INFO, 'AFT', 'AFT-Weibull', 'SR']
-dataset=['actg_simulated'] # selected from [actg_simulated, actg]
+alpha=[0, 0.1, 1, 10, 100]  # IPM weight > 0
+method=['CSA', 'CSA-INFO', 'AFT', 'AFT-Weibull', 'SR']
+dataset=['actg_simulated', 'actg'] # selected from [actg_simulated, actg]
