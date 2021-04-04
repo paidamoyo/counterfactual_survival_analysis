@@ -1,3 +1,13 @@
+# CSA Custom
+!model_*.log
+matrix
+plots
+logs
+config/used_configs.txt
+results
+analysis
+data/framingham
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
